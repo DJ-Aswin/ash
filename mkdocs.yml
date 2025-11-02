@@ -1,0 +1,9 @@
+site_name: Calculator Project Documentation
+nav:
+  - Home: index.md
+  - Installation: installation.md
+  - Usage: usage.md
+  - Functions: functions.md
+
+theme:
+  name: material  # Optional (install using: pip install mkdocs-material)
